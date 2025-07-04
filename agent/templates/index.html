@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de Ventas por Voz</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="/static/css/site.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Análisis de Ventas por Voz</h1>
+        <p>
+            <span>"Productos más vendidos"</span> 
+            <span>"Productos más rentables"</span> 
+            <span>"Mejores vendedores"</span> 
+        </p>
+        
+        <button id="micButton" class="mic-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
+                <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+                <line x1="12" y1="19" x2="12" y2="23"></line>
+                <line x1="8" y1="23" x2="16" y2="23"></line>
+            </svg>
+            Solicitar reporte
+        </button>
+        
+        <div id="status" class="status"></div>
+        <div id="error" class="error" style="display: none;"></div>
+        
+        <div class="chart-container">
+            <canvas id="salesChart"></canvas>
+        </div>
+        
+        <div id="analysis" class="analysis-container" style="display: none;">
+            <h3>Análisis:</h3>
+            <div id="analysisText"></div>
+        </div>
+    </div>
+    <script src="/static/js/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,215 @@
+[
+    {
+      "producto": "Huevos",
+      "cantidadVendida": 30,
+      "precioUnitario": 0.2,
+      "vendedor": "Juan",
+      "fecha": "2025-06-01"
+    },
+    {
+      "producto": "Leche",
+      "cantidadVendida": 15,
+      "precioUnitario": 1.0,
+      "vendedor": "Ana",
+      "fecha": "2025-06-01"
+    },
+    {
+      "producto": "Queso",
+      "cantidadVendida": 8,
+      "precioUnitario": 2.5,
+      "vendedor": "Luis",
+      "fecha": "2025-06-02"
+    },
+    {
+      "producto": "Tomates",
+      "cantidadVendida": 25,
+      "precioUnitario": 0.8,
+      "vendedor": "Ana",
+      "fecha": "2025-06-03"
+    },
+    {
+      "producto": "Pollo",
+      "cantidadVendida": 12,
+      "precioUnitario": 5.0,
+      "vendedor": "Juan",
+      "fecha": "2025-06-04"
+    },
+    {
+      "producto": "Huevos",
+      "cantidadVendida": 40,
+      "precioUnitario": 0.2,
+      "vendedor": "Luis",
+      "fecha": "2025-06-05"
+    },
+    {
+      "producto": "Leche",
+      "cantidadVendida": 10,
+      "precioUnitario": 1.0,
+      "vendedor": "Maria",
+      "fecha": "2025-06-05"
+    },
+    {
+      "producto": "Miel",
+      "cantidadVendida": 5,
+      "precioUnitario": 4.5,
+      "vendedor": "Ana",
+      "fecha": "2025-06-06"
+    },
+    {
+      "producto": "Manzanas",
+      "cantidadVendida": 20,
+      "precioUnitario": 0.7,
+      "vendedor": "Luis",
+      "fecha": "2025-06-06"
+    },
+    {
+      "producto": "Zanahorias",
+      "cantidadVendida": 18,
+      "precioUnitario": 0.6,
+      "vendedor": "Maria",
+      "fecha": "2025-06-06"
+    },
+
+    {
+      "producto": "Huevos",
+      "cantidadVendida": 50,
+      "precioUnitario": 0.2,
+      "vendedor": "Juan",
+      "fecha": "2025-06-07"
+    },
+    {
+      "producto": "Queso",
+      "cantidadVendida": 12,
+      "precioUnitario": 2.5,
+      "vendedor": "Maria",
+      "fecha": "2025-06-07"
+    },
+    {
+      "producto": "Tomates",
+      "cantidadVendida": 30,
+      "precioUnitario": 0.8,
+      "vendedor": "Luis",
+      "fecha": "2025-06-08"
+    },
+    {
+      "producto": "Pollo",
+      "cantidadVendida": 14,
+      "precioUnitario": 5.0,
+      "vendedor": "Juan",
+      "fecha": "2025-06-08"
+    },
+    {
+      "producto": "Huevos",
+      "cantidadVendida": 45,
+      "precioUnitario": 0.2,
+      "vendedor": "Ana",
+      "fecha": "2025-06-09"
+    },
+    {
+      "producto": "Leche",
+      "cantidadVendida": 20,
+      "precioUnitario": 1.0,
+      "vendedor": "Luis",
+      "fecha": "2025-06-09"
+    },
+    {
+      "producto": "Queso",
+      "cantidadVendida": 10,
+      "precioUnitario": 2.5,
+      "vendedor": "Juan",
+      "fecha": "2025-06-10"
+    },
+    {
+      "producto": "Tomates",
+      "cantidadVendida": 28,
+      "precioUnitario": 0.8,
+      "vendedor": "Ana",
+      "fecha": "2025-06-10"
+    },
+    {
+      "producto": "Miel",
+      "cantidadVendida": 7,
+      "precioUnitario": 4.5,
+      "vendedor": "Maria",
+      "fecha": "2025-06-10"
+    },
+    {
+      "producto": "Zanahorias",
+      "cantidadVendida": 22,
+      "precioUnitario": 0.6,
+      "vendedor": "Luis",
+      "fecha": "2025-06-11"
+    },
+  
+    {
+      "producto": "Huevos",
+      "cantidadVendida": 55,
+      "precioUnitario": 0.2,
+      "vendedor": "Juan",
+      "fecha": "2025-06-11"
+    },
+    {
+      "producto": "Leche",
+      "cantidadVendida": 18,
+      "precioUnitario": 1.0,
+      "vendedor": "Ana",
+      "fecha": "2025-06-12"
+    },
+    {
+      "producto": "Queso",
+      "cantidadVendida": 15,
+      "precioUnitario": 2.5,
+      "vendedor": "Luis",
+      "fecha": "2025-06-13"
+    },
+    {
+      "producto": "Tomates",
+      "cantidadVendida": 26,
+      "precioUnitario": 0.8,
+      "vendedor": "Juan",
+      "fecha": "2025-06-13"
+    },
+    {
+      "producto": "Pollo",
+      "cantidadVendida": 10,
+      "precioUnitario": 5.0,
+      "vendedor": "Maria",
+      "fecha": "2025-06-13"
+    },
+    {
+      "producto": "Huevos",
+      "cantidadVendida": 60,
+      "precioUnitario": 0.2,
+      "vendedor": "Luis",
+      "fecha": "2025-06-14"
+    },
+    {
+      "producto": "Miel",
+      "cantidadVendida": 6,
+      "precioUnitario": 4.5,
+      "vendedor": "Ana",
+      "fecha": "2025-06-14"
+    },
+    {
+      "producto": "Manzanas",
+      "cantidadVendida": 25,
+      "precioUnitario": 0.7,
+      "vendedor": "Maria",
+      "fecha": "2025-06-14"
+    },
+    {
+      "producto": "Zanahorias",
+      "cantidadVendida": 20,
+      "precioUnitario": 0.6,
+      "vendedor": "Juan",
+      "fecha": "2025-06-15"
+    },
+    {
+      "producto": "Huevos",
+      "cantidadVendida": 35,
+      "precioUnitario": 0.2,
+      "vendedor": "Ana",
+      "fecha": "2025-06-15"
+    }
+  ]
+  
