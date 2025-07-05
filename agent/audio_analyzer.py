@@ -15,7 +15,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 
 client = OpenAI(api_key=api_key)
 
-API_URL = "http://localhost:3000/api/ventas"
+API_URL = os.getenv("API_URL")
 
 
 def obtener_datos():
@@ -47,27 +47,12 @@ def interpretar_audio(audio_file):
         except Exception:
             return ""
 
-
-def generar_resumen_ia(df, tipo, datos):
-    prompt = (
-        f"Analiza los datos de ventas y genera un breve resumen en español sobre la petición del usuario:'{tipo}'. Datos json: {datos}. Responde solo con el análisis, sin explicaciones adicionales."
-        f"No agregues formato markdown."
-    )
-
-    response = client.chat.completions.create(
-        model="gpt-4.1",
-        messages=[
-            {"role": "system", "content": "Eres un analista de datos."},
-            {"role": "user", "content": prompt}
-        ]
-    )
-    return response.choices[0].message.content.strip()
-
 def generar_grafica_ia(df, tipo, datos):
     prompt = (
-        f"Genera directamente solo el objeto JSON (sin envolverlo en una variable ni usar 'const') "
-        f"de configuración para Chart.js. El gráfico será de tipo acorde a la petición: '{tipo}'. "
-        f"Datos en formato JSON: {datos}. Responde solamente con el objeto JSON de configuración para Chart.js. "
+        f"Genera directamente solo el objeto JSON con el objeto de configuración para Chart.js  y  un analisis breve de los datos ten en cuenta la moneda es USD. "
+        f"El gráfico será de tipo acorde a la petición: '{tipo}'. "
+        f"Datos en formato JSON: {datos}. Responde solamente con el objeto JSON "
+        f"un objeto 'chartData' con de configuración para Chart.js. y un atributo 'analysis' con el analisis breve de los datos."
         f"No agregues texto adicional, explicaciones ni formato markdown."
     )
 
@@ -106,22 +91,21 @@ def procesar_audio_y_generar_respuesta(audio_bytes):
                 "analisis": "⚠️ No se encontraron datos en el API."
             }
         
-        data = data_json = df.to_dict(orient="records")
-        #print(f"Datos del gráfico: {data}")
+        data = df.to_dict(orient="records")
         
         chart=generar_grafica_ia(df, texto, data)
         
-        
-        print(f"Gráfico: {chart}")
-        
-        analisis = generar_resumen_ia(df, texto, data)
+        print(f"Gráfico: {chart['chartData']}","\n")
+        print(f"Analisis: {chart['analysis']}","\n")
 
         return {
-            "chartData": chart,
-            "analisis": analisis
+            "chartData": chart['chartData']if "chartData" in chart else None,
+            "analisis":  chart['analysis'] if "analysis" in chart else "⚠️ No se pudo generar el análisis."
         }
 
     except Exception as e:
+        print(f"Error durante el procesamiento: {str(e)}")
+        # Manejo de errores, devolviendo un mensaje genérico
         return {
             "chartData": None,
             "analisis": f"❌ Error durante el análisis: {str(e)}"

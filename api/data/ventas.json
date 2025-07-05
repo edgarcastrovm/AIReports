@@ -1,215 +1,3173 @@
 [
     {
-      "producto": "Huevos",
-      "cantidadVendida": 30,
-      "precioUnitario": 0.2,
-      "vendedor": "Juan",
-      "fecha": "2025-06-01"
+        "producto": "Pan",
+        "cantidadVendida": 14,
+        "precioUnitario": 0.5,
+        "vendedor": "Luis",
+        "fecha": "2025-01-01"
     },
     {
-      "producto": "Leche",
-      "cantidadVendida": 15,
-      "precioUnitario": 1.0,
-      "vendedor": "Ana",
-      "fecha": "2025-06-01"
+        "producto": "Huevos",
+        "cantidadVendida": 44,
+        "precioUnitario": 0.2,
+        "vendedor": "Juan",
+        "fecha": "2025-01-01"
     },
     {
-      "producto": "Queso",
-      "cantidadVendida": 8,
-      "precioUnitario": 2.5,
-      "vendedor": "Luis",
-      "fecha": "2025-06-02"
+        "producto": "Zanahorias",
+        "cantidadVendida": 39,
+        "precioUnitario": 0.6,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-01"
     },
     {
-      "producto": "Tomates",
-      "cantidadVendida": 25,
-      "precioUnitario": 0.8,
-      "vendedor": "Ana",
-      "fecha": "2025-06-03"
+        "producto": "Queso",
+        "cantidadVendida": 23,
+        "precioUnitario": 2.5,
+        "vendedor": "Maria",
+        "fecha": "2025-01-02"
     },
     {
-      "producto": "Pollo",
-      "cantidadVendida": 12,
-      "precioUnitario": 5.0,
-      "vendedor": "Juan",
-      "fecha": "2025-06-04"
+        "producto": "Cereal",
+        "cantidadVendida": 6,
+        "precioUnitario": 3.0,
+        "vendedor": "Ana",
+        "fecha": "2025-01-02"
     },
     {
-      "producto": "Huevos",
-      "cantidadVendida": 40,
-      "precioUnitario": 0.2,
-      "vendedor": "Luis",
-      "fecha": "2025-06-05"
+        "producto": "Papas",
+        "cantidadVendida": 52,
+        "precioUnitario": 0.4,
+        "vendedor": "Ana",
+        "fecha": "2025-01-02"
     },
     {
-      "producto": "Leche",
-      "cantidadVendida": 10,
-      "precioUnitario": 1.0,
-      "vendedor": "Maria",
-      "fecha": "2025-06-05"
+        "producto": "Tomates",
+        "cantidadVendida": 42,
+        "precioUnitario": 0.8,
+        "vendedor": "Maria",
+        "fecha": "2025-01-03"
     },
     {
-      "producto": "Miel",
-      "cantidadVendida": 5,
-      "precioUnitario": 4.5,
-      "vendedor": "Ana",
-      "fecha": "2025-06-06"
+        "producto": "Miel",
+        "cantidadVendida": 8,
+        "precioUnitario": 4.5,
+        "vendedor": "Ana",
+        "fecha": "2025-01-03"
     },
     {
-      "producto": "Manzanas",
-      "cantidadVendida": 20,
-      "precioUnitario": 0.7,
-      "vendedor": "Luis",
-      "fecha": "2025-06-06"
+        "producto": "Yogur",
+        "cantidadVendida": 23,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-01-03"
     },
     {
-      "producto": "Zanahorias",
-      "cantidadVendida": 18,
-      "precioUnitario": 0.6,
-      "vendedor": "Maria",
-      "fecha": "2025-06-06"
-    },
-
-    {
-      "producto": "Huevos",
-      "cantidadVendida": 50,
-      "precioUnitario": 0.2,
-      "vendedor": "Juan",
-      "fecha": "2025-06-07"
+        "producto": "Carne",
+        "cantidadVendida": 24,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-04"
     },
     {
-      "producto": "Queso",
-      "cantidadVendida": 12,
-      "precioUnitario": 2.5,
-      "vendedor": "Maria",
-      "fecha": "2025-06-07"
+        "producto": "Yogur",
+        "cantidadVendida": 23,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-01-05"
     },
     {
-      "producto": "Tomates",
-      "cantidadVendida": 30,
-      "precioUnitario": 0.8,
-      "vendedor": "Luis",
-      "fecha": "2025-06-08"
+        "producto": "Harina",
+        "cantidadVendida": 58,
+        "precioUnitario": 0.9,
+        "vendedor": "Luis",
+        "fecha": "2025-01-05"
     },
     {
-      "producto": "Pollo",
-      "cantidadVendida": 14,
-      "precioUnitario": 5.0,
-      "vendedor": "Juan",
-      "fecha": "2025-06-08"
+        "producto": "Tomates",
+        "cantidadVendida": 48,
+        "precioUnitario": 0.8,
+        "vendedor": "Juan",
+        "fecha": "2025-01-05"
     },
     {
-      "producto": "Huevos",
-      "cantidadVendida": 45,
-      "precioUnitario": 0.2,
-      "vendedor": "Ana",
-      "fecha": "2025-06-09"
+        "producto": "Yogur",
+        "cantidadVendida": 21,
+        "precioUnitario": 1.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-05"
     },
     {
-      "producto": "Leche",
-      "cantidadVendida": 20,
-      "precioUnitario": 1.0,
-      "vendedor": "Luis",
-      "fecha": "2025-06-09"
+        "producto": "Pollo",
+        "cantidadVendida": 31,
+        "precioUnitario": 5.0,
+        "vendedor": "Juan",
+        "fecha": "2025-01-05"
     },
     {
-      "producto": "Queso",
-      "cantidadVendida": 10,
-      "precioUnitario": 2.5,
-      "vendedor": "Juan",
-      "fecha": "2025-06-10"
+        "producto": "Cereal",
+        "cantidadVendida": 13,
+        "precioUnitario": 3.0,
+        "vendedor": "Maria",
+        "fecha": "2025-01-06"
     },
     {
-      "producto": "Tomates",
-      "cantidadVendida": 28,
-      "precioUnitario": 0.8,
-      "vendedor": "Ana",
-      "fecha": "2025-06-10"
+        "producto": "Zanahorias",
+        "cantidadVendida": 37,
+        "precioUnitario": 0.6,
+        "vendedor": "Juan",
+        "fecha": "2025-01-06"
     },
     {
-      "producto": "Miel",
-      "cantidadVendida": 7,
-      "precioUnitario": 4.5,
-      "vendedor": "Maria",
-      "fecha": "2025-06-10"
+        "producto": "Pan",
+        "cantidadVendida": 35,
+        "precioUnitario": 0.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-06"
     },
     {
-      "producto": "Zanahorias",
-      "cantidadVendida": 22,
-      "precioUnitario": 0.6,
-      "vendedor": "Luis",
-      "fecha": "2025-06-11"
-    },
-  
-    {
-      "producto": "Huevos",
-      "cantidadVendida": 55,
-      "precioUnitario": 0.2,
-      "vendedor": "Juan",
-      "fecha": "2025-06-11"
+        "producto": "Queso",
+        "cantidadVendida": 55,
+        "precioUnitario": 2.5,
+        "vendedor": "Juan",
+        "fecha": "2025-01-06"
     },
     {
-      "producto": "Leche",
-      "cantidadVendida": 18,
-      "precioUnitario": 1.0,
-      "vendedor": "Ana",
-      "fecha": "2025-06-12"
+        "producto": "Papas",
+        "cantidadVendida": 20,
+        "precioUnitario": 0.4,
+        "vendedor": "Maria",
+        "fecha": "2025-01-06"
     },
     {
-      "producto": "Queso",
-      "cantidadVendida": 15,
-      "precioUnitario": 2.5,
-      "vendedor": "Luis",
-      "fecha": "2025-06-13"
+        "producto": "Cereal",
+        "cantidadVendida": 9,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-07"
     },
     {
-      "producto": "Tomates",
-      "cantidadVendida": 26,
-      "precioUnitario": 0.8,
-      "vendedor": "Juan",
-      "fecha": "2025-06-13"
+        "producto": "Pollo",
+        "cantidadVendida": 17,
+        "precioUnitario": 5.0,
+        "vendedor": "Juan",
+        "fecha": "2025-01-07"
     },
     {
-      "producto": "Pollo",
-      "cantidadVendida": 10,
-      "precioUnitario": 5.0,
-      "vendedor": "Maria",
-      "fecha": "2025-06-13"
+        "producto": "Cereal",
+        "cantidadVendida": 36,
+        "precioUnitario": 3.0,
+        "vendedor": "Maria",
+        "fecha": "2025-01-07"
     },
     {
-      "producto": "Huevos",
-      "cantidadVendida": 60,
-      "precioUnitario": 0.2,
-      "vendedor": "Luis",
-      "fecha": "2025-06-14"
+        "producto": "Leche",
+        "cantidadVendida": 13,
+        "precioUnitario": 1.0,
+        "vendedor": "Juan",
+        "fecha": "2025-01-08"
     },
     {
-      "producto": "Miel",
-      "cantidadVendida": 6,
-      "precioUnitario": 4.5,
-      "vendedor": "Ana",
-      "fecha": "2025-06-14"
+        "producto": "Arroz",
+        "cantidadVendida": 27,
+        "precioUnitario": 1.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-08"
     },
     {
-      "producto": "Manzanas",
-      "cantidadVendida": 25,
-      "precioUnitario": 0.7,
-      "vendedor": "Maria",
-      "fecha": "2025-06-14"
+        "producto": "Arroz",
+        "cantidadVendida": 39,
+        "precioUnitario": 1.2,
+        "vendedor": "Juan",
+        "fecha": "2025-01-08"
     },
     {
-      "producto": "Zanahorias",
-      "cantidadVendida": 20,
-      "precioUnitario": 0.6,
-      "vendedor": "Juan",
-      "fecha": "2025-06-15"
+        "producto": "Cereal",
+        "cantidadVendida": 39,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-08"
     },
     {
-      "producto": "Huevos",
-      "cantidadVendida": 35,
-      "precioUnitario": 0.2,
-      "vendedor": "Ana",
-      "fecha": "2025-06-15"
+        "producto": "Pollo",
+        "cantidadVendida": 9,
+        "precioUnitario": 5.0,
+        "vendedor": "Ana",
+        "fecha": "2025-01-08"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 23,
+        "precioUnitario": 0.4,
+        "vendedor": "Ana",
+        "fecha": "2025-01-09"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 39,
+        "precioUnitario": 0.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-09"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 38,
+        "precioUnitario": 2.5,
+        "vendedor": "Ana",
+        "fecha": "2025-01-09"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 6,
+        "precioUnitario": 0.9,
+        "vendedor": "Juan",
+        "fecha": "2025-01-09"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 16,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-01-10"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 11,
+        "precioUnitario": 6.0,
+        "vendedor": "Juan",
+        "fecha": "2025-01-11"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 31,
+        "precioUnitario": 0.2,
+        "vendedor": "Luis",
+        "fecha": "2025-01-11"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 33,
+        "precioUnitario": 1.0,
+        "vendedor": "Maria",
+        "fecha": "2025-01-11"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 37,
+        "precioUnitario": 1.5,
+        "vendedor": "Luis",
+        "fecha": "2025-01-11"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 12,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-12"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 12,
+        "precioUnitario": 0.5,
+        "vendedor": "Luis",
+        "fecha": "2025-01-12"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 57,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-01-12"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 43,
+        "precioUnitario": 0.6,
+        "vendedor": "Juan",
+        "fecha": "2025-01-12"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 20,
+        "precioUnitario": 0.9,
+        "vendedor": "Luis",
+        "fecha": "2025-01-12"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 53,
+        "precioUnitario": 5.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-13"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 9,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-01-13"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 39,
+        "precioUnitario": 0.4,
+        "vendedor": "Juan",
+        "fecha": "2025-01-13"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 33,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-01-14"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 24,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-01-15"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 24,
+        "precioUnitario": 2.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-15"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 59,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-01-15"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 55,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-15"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 37,
+        "precioUnitario": 4.5,
+        "vendedor": "Maria",
+        "fecha": "2025-01-16"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 57,
+        "precioUnitario": 6.0,
+        "vendedor": "Maria",
+        "fecha": "2025-01-17"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 20,
+        "precioUnitario": 2.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-17"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 56,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-01-17"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 60,
+        "precioUnitario": 1.0,
+        "vendedor": "Luis",
+        "fecha": "2025-01-18"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 47,
+        "precioUnitario": 0.5,
+        "vendedor": "Ana",
+        "fecha": "2025-01-19"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 8,
+        "precioUnitario": 0.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-19"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 53,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-01-20"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 27,
+        "precioUnitario": 0.4,
+        "vendedor": "Ana",
+        "fecha": "2025-01-20"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 56,
+        "precioUnitario": 3.0,
+        "vendedor": "Ana",
+        "fecha": "2025-01-20"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 59,
+        "precioUnitario": 2.5,
+        "vendedor": "Ana",
+        "fecha": "2025-01-21"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 29,
+        "precioUnitario": 0.5,
+        "vendedor": "Luis",
+        "fecha": "2025-01-21"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 17,
+        "precioUnitario": 4.5,
+        "vendedor": "Luis",
+        "fecha": "2025-01-22"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 14,
+        "precioUnitario": 6.0,
+        "vendedor": "Maria",
+        "fecha": "2025-01-22"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 40,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-22"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 18,
+        "precioUnitario": 6.0,
+        "vendedor": "Juan",
+        "fecha": "2025-01-22"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 32,
+        "precioUnitario": 1.0,
+        "vendedor": "Juan",
+        "fecha": "2025-01-23"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 45,
+        "precioUnitario": 1.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-23"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 49,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-01-24"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 7,
+        "precioUnitario": 4.5,
+        "vendedor": "Juan",
+        "fecha": "2025-01-25"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 21,
+        "precioUnitario": 0.9,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-25"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 44,
+        "precioUnitario": 5.0,
+        "vendedor": "Luis",
+        "fecha": "2025-01-25"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 38,
+        "precioUnitario": 5.0,
+        "vendedor": "Juan",
+        "fecha": "2025-01-25"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 41,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-01-26"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 20,
+        "precioUnitario": 1.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-26"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 55,
+        "precioUnitario": 0.4,
+        "vendedor": "Maria",
+        "fecha": "2025-01-26"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 40,
+        "precioUnitario": 2.5,
+        "vendedor": "Luis",
+        "fecha": "2025-01-26"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 5,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-01-27"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 7,
+        "precioUnitario": 1.0,
+        "vendedor": "Maria",
+        "fecha": "2025-01-27"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 41,
+        "precioUnitario": 0.6,
+        "vendedor": "Ana",
+        "fecha": "2025-01-27"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 50,
+        "precioUnitario": 0.7,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-28"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 40,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-28"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 44,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-01-29"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 50,
+        "precioUnitario": 0.9,
+        "vendedor": "Maria",
+        "fecha": "2025-01-29"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 44,
+        "precioUnitario": 0.4,
+        "vendedor": "Maria",
+        "fecha": "2025-01-30"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 25,
+        "precioUnitario": 0.2,
+        "vendedor": "Luis",
+        "fecha": "2025-01-30"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 51,
+        "precioUnitario": 1.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-31"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 58,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-01-31"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 59,
+        "precioUnitario": 0.8,
+        "vendedor": "Ana",
+        "fecha": "2025-01-31"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 22,
+        "precioUnitario": 1.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-01-31"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 53,
+        "precioUnitario": 4.5,
+        "vendedor": "Luis",
+        "fecha": "2025-01-31"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 8,
+        "precioUnitario": 0.6,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-01"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 30,
+        "precioUnitario": 0.8,
+        "vendedor": "Maria",
+        "fecha": "2025-02-01"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 32,
+        "precioUnitario": 2.5,
+        "vendedor": "Luis",
+        "fecha": "2025-02-02"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 39,
+        "precioUnitario": 0.7,
+        "vendedor": "Luis",
+        "fecha": "2025-02-03"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 12,
+        "precioUnitario": 5.0,
+        "vendedor": "Juan",
+        "fecha": "2025-02-03"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 20,
+        "precioUnitario": 4.5,
+        "vendedor": "Maria",
+        "fecha": "2025-02-04"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 56,
+        "precioUnitario": 5.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-05"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 60,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-02-05"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 14,
+        "precioUnitario": 1.2,
+        "vendedor": "Ana",
+        "fecha": "2025-02-06"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 33,
+        "precioUnitario": 1.0,
+        "vendedor": "Luis",
+        "fecha": "2025-02-06"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 57,
+        "precioUnitario": 3.0,
+        "vendedor": "Maria",
+        "fecha": "2025-02-06"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 37,
+        "precioUnitario": 5.0,
+        "vendedor": "Maria",
+        "fecha": "2025-02-07"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 5,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-07"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 30,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-02-07"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 35,
+        "precioUnitario": 5.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-07"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 28,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-08"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 35,
+        "precioUnitario": 0.5,
+        "vendedor": "Ana",
+        "fecha": "2025-02-08"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 45,
+        "precioUnitario": 4.5,
+        "vendedor": "Juan",
+        "fecha": "2025-02-09"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 23,
+        "precioUnitario": 0.7,
+        "vendedor": "Ana",
+        "fecha": "2025-02-09"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 54,
+        "precioUnitario": 6.0,
+        "vendedor": "Maria",
+        "fecha": "2025-02-09"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 28,
+        "precioUnitario": 0.6,
+        "vendedor": "Juan",
+        "fecha": "2025-02-10"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 26,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-10"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 28,
+        "precioUnitario": 1.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-10"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 30,
+        "precioUnitario": 1.0,
+        "vendedor": "Ana",
+        "fecha": "2025-02-11"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 13,
+        "precioUnitario": 1.0,
+        "vendedor": "Luis",
+        "fecha": "2025-02-11"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 35,
+        "precioUnitario": 0.5,
+        "vendedor": "Juan",
+        "fecha": "2025-02-11"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 40,
+        "precioUnitario": 0.4,
+        "vendedor": "Luis",
+        "fecha": "2025-02-11"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 35,
+        "precioUnitario": 1.0,
+        "vendedor": "Ana",
+        "fecha": "2025-02-11"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 46,
+        "precioUnitario": 6.0,
+        "vendedor": "Maria",
+        "fecha": "2025-02-12"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 15,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-02-12"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 27,
+        "precioUnitario": 0.8,
+        "vendedor": "Juan",
+        "fecha": "2025-02-12"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 36,
+        "precioUnitario": 0.6,
+        "vendedor": "Juan",
+        "fecha": "2025-02-13"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 23,
+        "precioUnitario": 0.4,
+        "vendedor": "Luis",
+        "fecha": "2025-02-13"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 38,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-02-13"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 21,
+        "precioUnitario": 0.4,
+        "vendedor": "Maria",
+        "fecha": "2025-02-13"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 28,
+        "precioUnitario": 1.0,
+        "vendedor": "Luis",
+        "fecha": "2025-02-14"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 58,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-02-15"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 18,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-02-15"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 41,
+        "precioUnitario": 6.0,
+        "vendedor": "Maria",
+        "fecha": "2025-02-15"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 34,
+        "precioUnitario": 1.5,
+        "vendedor": "Ana",
+        "fecha": "2025-02-15"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 7,
+        "precioUnitario": 0.7,
+        "vendedor": "Luis",
+        "fecha": "2025-02-16"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 18,
+        "precioUnitario": 0.7,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-16"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 40,
+        "precioUnitario": 1.2,
+        "vendedor": "Juan",
+        "fecha": "2025-02-16"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 47,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-02-16"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 12,
+        "precioUnitario": 4.5,
+        "vendedor": "Ana",
+        "fecha": "2025-02-17"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 18,
+        "precioUnitario": 0.2,
+        "vendedor": "Luis",
+        "fecha": "2025-02-17"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 43,
+        "precioUnitario": 2.5,
+        "vendedor": "Luis",
+        "fecha": "2025-02-17"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 28,
+        "precioUnitario": 0.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-17"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 58,
+        "precioUnitario": 6.0,
+        "vendedor": "Juan",
+        "fecha": "2025-02-18"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 39,
+        "precioUnitario": 3.0,
+        "vendedor": "Luis",
+        "fecha": "2025-02-19"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 50,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-20"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 56,
+        "precioUnitario": 0.6,
+        "vendedor": "Juan",
+        "fecha": "2025-02-20"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 27,
+        "precioUnitario": 0.5,
+        "vendedor": "Maria",
+        "fecha": "2025-02-21"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 52,
+        "precioUnitario": 0.9,
+        "vendedor": "Maria",
+        "fecha": "2025-02-21"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 35,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-02-22"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 27,
+        "precioUnitario": 1.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-22"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 6,
+        "precioUnitario": 3.0,
+        "vendedor": "Juan",
+        "fecha": "2025-02-22"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 41,
+        "precioUnitario": 3.0,
+        "vendedor": "Luis",
+        "fecha": "2025-02-22"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 60,
+        "precioUnitario": 0.4,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-22"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 10,
+        "precioUnitario": 0.5,
+        "vendedor": "Juan",
+        "fecha": "2025-02-23"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 60,
+        "precioUnitario": 3.0,
+        "vendedor": "Luis",
+        "fecha": "2025-02-23"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 50,
+        "precioUnitario": 2.5,
+        "vendedor": "Juan",
+        "fecha": "2025-02-23"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 47,
+        "precioUnitario": 5.0,
+        "vendedor": "Ana",
+        "fecha": "2025-02-24"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 30,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-02-24"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 46,
+        "precioUnitario": 4.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-25"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 21,
+        "precioUnitario": 0.8,
+        "vendedor": "Ana",
+        "fecha": "2025-02-25"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 10,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-02-25"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 45,
+        "precioUnitario": 0.4,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-25"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 53,
+        "precioUnitario": 0.8,
+        "vendedor": "Juan",
+        "fecha": "2025-02-25"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 45,
+        "precioUnitario": 2.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-26"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 40,
+        "precioUnitario": 6.0,
+        "vendedor": "Maria",
+        "fecha": "2025-02-26"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 6,
+        "precioUnitario": 2.5,
+        "vendedor": "Juan",
+        "fecha": "2025-02-26"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 15,
+        "precioUnitario": 0.7,
+        "vendedor": "Maria",
+        "fecha": "2025-02-26"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 8,
+        "precioUnitario": 0.4,
+        "vendedor": "Juan",
+        "fecha": "2025-02-27"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 58,
+        "precioUnitario": 6.0,
+        "vendedor": "Luis",
+        "fecha": "2025-02-27"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 10,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-02-28"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 30,
+        "precioUnitario": 5.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-28"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 6,
+        "precioUnitario": 1.5,
+        "vendedor": "Luis",
+        "fecha": "2025-02-28"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 18,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-02-28"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 13,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-01"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 47,
+        "precioUnitario": 4.5,
+        "vendedor": "Ana",
+        "fecha": "2025-03-01"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 20,
+        "precioUnitario": 5.0,
+        "vendedor": "Ana",
+        "fecha": "2025-03-01"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 58,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-03-01"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 23,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-03-02"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 19,
+        "precioUnitario": 5.0,
+        "vendedor": "Luis",
+        "fecha": "2025-03-02"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 5,
+        "precioUnitario": 1.2,
+        "vendedor": "Ana",
+        "fecha": "2025-03-03"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 50,
+        "precioUnitario": 0.9,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-03"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 28,
+        "precioUnitario": 0.4,
+        "vendedor": "Maria",
+        "fecha": "2025-03-04"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 37,
+        "precioUnitario": 0.5,
+        "vendedor": "Luis",
+        "fecha": "2025-03-04"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 57,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-03-05"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 16,
+        "precioUnitario": 0.4,
+        "vendedor": "Juan",
+        "fecha": "2025-03-06"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 32,
+        "precioUnitario": 0.7,
+        "vendedor": "Maria",
+        "fecha": "2025-03-06"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 7,
+        "precioUnitario": 3.0,
+        "vendedor": "Juan",
+        "fecha": "2025-03-06"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 38,
+        "precioUnitario": 4.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-06"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 34,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-03-07"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 29,
+        "precioUnitario": 2.5,
+        "vendedor": "Luis",
+        "fecha": "2025-03-07"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 17,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-03-07"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 8,
+        "precioUnitario": 0.7,
+        "vendedor": "Ana",
+        "fecha": "2025-03-07"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 24,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-03-08"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 21,
+        "precioUnitario": 0.7,
+        "vendedor": "Maria",
+        "fecha": "2025-03-08"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 35,
+        "precioUnitario": 0.7,
+        "vendedor": "Ana",
+        "fecha": "2025-03-09"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 39,
+        "precioUnitario": 6.0,
+        "vendedor": "Juan",
+        "fecha": "2025-03-09"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 6,
+        "precioUnitario": 0.2,
+        "vendedor": "Juan",
+        "fecha": "2025-03-09"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 6,
+        "precioUnitario": 1.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-09"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 41,
+        "precioUnitario": 2.5,
+        "vendedor": "Juan",
+        "fecha": "2025-03-09"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 8,
+        "precioUnitario": 3.0,
+        "vendedor": "Maria",
+        "fecha": "2025-03-10"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 34,
+        "precioUnitario": 0.6,
+        "vendedor": "Juan",
+        "fecha": "2025-03-10"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 16,
+        "precioUnitario": 3.0,
+        "vendedor": "Luis",
+        "fecha": "2025-03-10"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 27,
+        "precioUnitario": 2.5,
+        "vendedor": "Juan",
+        "fecha": "2025-03-10"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 27,
+        "precioUnitario": 0.9,
+        "vendedor": "Ana",
+        "fecha": "2025-03-10"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 29,
+        "precioUnitario": 0.4,
+        "vendedor": "Ana",
+        "fecha": "2025-03-11"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 49,
+        "precioUnitario": 4.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-11"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 15,
+        "precioUnitario": 5.0,
+        "vendedor": "Luis",
+        "fecha": "2025-03-11"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 59,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-03-12"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 41,
+        "precioUnitario": 2.5,
+        "vendedor": "Maria",
+        "fecha": "2025-03-13"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 37,
+        "precioUnitario": 1.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-13"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 18,
+        "precioUnitario": 0.2,
+        "vendedor": "Luis",
+        "fecha": "2025-03-13"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 27,
+        "precioUnitario": 5.0,
+        "vendedor": "Maria",
+        "fecha": "2025-03-14"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 16,
+        "precioUnitario": 1.5,
+        "vendedor": "Juan",
+        "fecha": "2025-03-14"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 20,
+        "precioUnitario": 0.8,
+        "vendedor": "Ana",
+        "fecha": "2025-03-14"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 21,
+        "precioUnitario": 6.0,
+        "vendedor": "Juan",
+        "fecha": "2025-03-15"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 12,
+        "precioUnitario": 2.5,
+        "vendedor": "Ana",
+        "fecha": "2025-03-15"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 53,
+        "precioUnitario": 3.0,
+        "vendedor": "Ana",
+        "fecha": "2025-03-16"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 55,
+        "precioUnitario": 1.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-17"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 52,
+        "precioUnitario": 6.0,
+        "vendedor": "Ana",
+        "fecha": "2025-03-17"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 57,
+        "precioUnitario": 0.2,
+        "vendedor": "Luis",
+        "fecha": "2025-03-17"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 55,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-03-17"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 7,
+        "precioUnitario": 0.2,
+        "vendedor": "Maria",
+        "fecha": "2025-03-17"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 31,
+        "precioUnitario": 0.8,
+        "vendedor": "Juan",
+        "fecha": "2025-03-18"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 54,
+        "precioUnitario": 0.9,
+        "vendedor": "Ana",
+        "fecha": "2025-03-18"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 16,
+        "precioUnitario": 1.0,
+        "vendedor": "Maria",
+        "fecha": "2025-03-19"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 33,
+        "precioUnitario": 5.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-19"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 18,
+        "precioUnitario": 3.0,
+        "vendedor": "Maria",
+        "fecha": "2025-03-19"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 32,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-03-20"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 19,
+        "precioUnitario": 0.7,
+        "vendedor": "Maria",
+        "fecha": "2025-03-20"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 8,
+        "precioUnitario": 6.0,
+        "vendedor": "Ana",
+        "fecha": "2025-03-20"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 23,
+        "precioUnitario": 0.6,
+        "vendedor": "Ana",
+        "fecha": "2025-03-20"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 5,
+        "precioUnitario": 0.8,
+        "vendedor": "Luis",
+        "fecha": "2025-03-20"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 5,
+        "precioUnitario": 3.0,
+        "vendedor": "Juan",
+        "fecha": "2025-03-21"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 23,
+        "precioUnitario": 2.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-21"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 25,
+        "precioUnitario": 5.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-22"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 39,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-03-22"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 24,
+        "precioUnitario": 1.5,
+        "vendedor": "Ana",
+        "fecha": "2025-03-22"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 42,
+        "precioUnitario": 6.0,
+        "vendedor": "Juan",
+        "fecha": "2025-03-22"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 25,
+        "precioUnitario": 4.5,
+        "vendedor": "Juan",
+        "fecha": "2025-03-22"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 52,
+        "precioUnitario": 1.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-23"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 32,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-03-23"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 12,
+        "precioUnitario": 0.5,
+        "vendedor": "Ana",
+        "fecha": "2025-03-23"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 15,
+        "precioUnitario": 4.5,
+        "vendedor": "Ana",
+        "fecha": "2025-03-23"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 37,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-23"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 47,
+        "precioUnitario": 1.0,
+        "vendedor": "Ana",
+        "fecha": "2025-03-24"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 40,
+        "precioUnitario": 1.2,
+        "vendedor": "Ana",
+        "fecha": "2025-03-25"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 40,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-03-25"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 8,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-25"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 57,
+        "precioUnitario": 0.9,
+        "vendedor": "Maria",
+        "fecha": "2025-03-25"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 20,
+        "precioUnitario": 0.8,
+        "vendedor": "Juan",
+        "fecha": "2025-03-25"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 27,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-03-26"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 58,
+        "precioUnitario": 3.0,
+        "vendedor": "Maria",
+        "fecha": "2025-03-27"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 50,
+        "precioUnitario": 5.0,
+        "vendedor": "Maria",
+        "fecha": "2025-03-27"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 31,
+        "precioUnitario": 0.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-27"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 24,
+        "precioUnitario": 3.0,
+        "vendedor": "Juan",
+        "fecha": "2025-03-27"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 42,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-28"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 9,
+        "precioUnitario": 0.9,
+        "vendedor": "Maria",
+        "fecha": "2025-03-28"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 43,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-03-28"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 41,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-28"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 35,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-03-28"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 13,
+        "precioUnitario": 0.2,
+        "vendedor": "Ana",
+        "fecha": "2025-03-29"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 55,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-03-29"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 24,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-29"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 42,
+        "precioUnitario": 0.4,
+        "vendedor": "Juan",
+        "fecha": "2025-03-29"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 27,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-03-30"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 50,
+        "precioUnitario": 0.9,
+        "vendedor": "Luis",
+        "fecha": "2025-03-30"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 17,
+        "precioUnitario": 0.8,
+        "vendedor": "Luis",
+        "fecha": "2025-03-30"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 14,
+        "precioUnitario": 2.5,
+        "vendedor": "Ana",
+        "fecha": "2025-03-30"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 28,
+        "precioUnitario": 3.0,
+        "vendedor": "Ana",
+        "fecha": "2025-03-30"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 33,
+        "precioUnitario": 0.2,
+        "vendedor": "Maria",
+        "fecha": "2025-03-31"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 9,
+        "precioUnitario": 1.0,
+        "vendedor": "Luis",
+        "fecha": "2025-03-31"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 8,
+        "precioUnitario": 0.2,
+        "vendedor": "Maria",
+        "fecha": "2025-03-31"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 9,
+        "precioUnitario": 1.0,
+        "vendedor": "Juan",
+        "fecha": "2025-03-31"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 18,
+        "precioUnitario": 0.5,
+        "vendedor": "Luis",
+        "fecha": "2025-03-31"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 43,
+        "precioUnitario": 0.4,
+        "vendedor": "Maria",
+        "fecha": "2025-04-01"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 49,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-04-01"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 42,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-02"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 15,
+        "precioUnitario": 4.5,
+        "vendedor": "Maria",
+        "fecha": "2025-04-02"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 57,
+        "precioUnitario": 0.4,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-03"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 15,
+        "precioUnitario": 0.8,
+        "vendedor": "Luis",
+        "fecha": "2025-04-03"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 27,
+        "precioUnitario": 0.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-03"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 59,
+        "precioUnitario": 0.5,
+        "vendedor": "Luis",
+        "fecha": "2025-04-03"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 46,
+        "precioUnitario": 1.5,
+        "vendedor": "Juan",
+        "fecha": "2025-04-03"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 53,
+        "precioUnitario": 6.0,
+        "vendedor": "Luis",
+        "fecha": "2025-04-04"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 54,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-05"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 17,
+        "precioUnitario": 2.5,
+        "vendedor": "Luis",
+        "fecha": "2025-04-05"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 34,
+        "precioUnitario": 1.2,
+        "vendedor": "Juan",
+        "fecha": "2025-04-05"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 15,
+        "precioUnitario": 0.9,
+        "vendedor": "Juan",
+        "fecha": "2025-04-05"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 60,
+        "precioUnitario": 0.6,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-05"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 14,
+        "precioUnitario": 3.0,
+        "vendedor": "Ana",
+        "fecha": "2025-04-06"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 47,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-04-06"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 16,
+        "precioUnitario": 1.0,
+        "vendedor": "Ana",
+        "fecha": "2025-04-07"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 43,
+        "precioUnitario": 0.8,
+        "vendedor": "Ana",
+        "fecha": "2025-04-07"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 7,
+        "precioUnitario": 0.9,
+        "vendedor": "Luis",
+        "fecha": "2025-04-07"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 40,
+        "precioUnitario": 5.0,
+        "vendedor": "Maria",
+        "fecha": "2025-04-07"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 42,
+        "precioUnitario": 1.0,
+        "vendedor": "Juan",
+        "fecha": "2025-04-07"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 54,
+        "precioUnitario": 0.7,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-08"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 32,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-08"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 56,
+        "precioUnitario": 2.5,
+        "vendedor": "Maria",
+        "fecha": "2025-04-09"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 30,
+        "precioUnitario": 0.2,
+        "vendedor": "Luis",
+        "fecha": "2025-04-09"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 27,
+        "precioUnitario": 3.0,
+        "vendedor": "Ana",
+        "fecha": "2025-04-09"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 20,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-04-10"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 58,
+        "precioUnitario": 0.2,
+        "vendedor": "Juan",
+        "fecha": "2025-04-10"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 9,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-10"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 24,
+        "precioUnitario": 4.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-10"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 5,
+        "precioUnitario": 1.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-11"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 25,
+        "precioUnitario": 0.5,
+        "vendedor": "Ana",
+        "fecha": "2025-04-11"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 48,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-04-11"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 46,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-11"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 47,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-04-11"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 40,
+        "precioUnitario": 0.2,
+        "vendedor": "Maria",
+        "fecha": "2025-04-12"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 15,
+        "precioUnitario": 0.7,
+        "vendedor": "Maria",
+        "fecha": "2025-04-12"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 44,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-04-12"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 22,
+        "precioUnitario": 0.9,
+        "vendedor": "Juan",
+        "fecha": "2025-04-12"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 55,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-04-13"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 34,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-13"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 27,
+        "precioUnitario": 0.7,
+        "vendedor": "Maria",
+        "fecha": "2025-04-13"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 5,
+        "precioUnitario": 0.7,
+        "vendedor": "Maria",
+        "fecha": "2025-04-13"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 47,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-04-14"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 12,
+        "precioUnitario": 2.5,
+        "vendedor": "Luis",
+        "fecha": "2025-04-14"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 9,
+        "precioUnitario": 2.5,
+        "vendedor": "Luis",
+        "fecha": "2025-04-15"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 58,
+        "precioUnitario": 0.5,
+        "vendedor": "Juan",
+        "fecha": "2025-04-15"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 35,
+        "precioUnitario": 0.6,
+        "vendedor": "Maria",
+        "fecha": "2025-04-15"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 48,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-04-15"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 44,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-15"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 8,
+        "precioUnitario": 0.2,
+        "vendedor": "Luis",
+        "fecha": "2025-04-16"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 15,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-04-16"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 55,
+        "precioUnitario": 1.0,
+        "vendedor": "Maria",
+        "fecha": "2025-04-16"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 33,
+        "precioUnitario": 1.0,
+        "vendedor": "Luis",
+        "fecha": "2025-04-16"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 12,
+        "precioUnitario": 0.7,
+        "vendedor": "Luis",
+        "fecha": "2025-04-16"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 38,
+        "precioUnitario": 4.5,
+        "vendedor": "Juan",
+        "fecha": "2025-04-17"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 36,
+        "precioUnitario": 0.2,
+        "vendedor": "Ana",
+        "fecha": "2025-04-17"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 16,
+        "precioUnitario": 6.0,
+        "vendedor": "Maria",
+        "fecha": "2025-04-18"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 17,
+        "precioUnitario": 0.9,
+        "vendedor": "Juan",
+        "fecha": "2025-04-19"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 39,
+        "precioUnitario": 0.6,
+        "vendedor": "Ana",
+        "fecha": "2025-04-19"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 60,
+        "precioUnitario": 0.5,
+        "vendedor": "Juan",
+        "fecha": "2025-04-19"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 24,
+        "precioUnitario": 5.0,
+        "vendedor": "Juan",
+        "fecha": "2025-04-20"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 9,
+        "precioUnitario": 0.7,
+        "vendedor": "Ana",
+        "fecha": "2025-04-20"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 16,
+        "precioUnitario": 0.5,
+        "vendedor": "Ana",
+        "fecha": "2025-04-20"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 9,
+        "precioUnitario": 4.5,
+        "vendedor": "Luis",
+        "fecha": "2025-04-21"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 58,
+        "precioUnitario": 4.5,
+        "vendedor": "Maria",
+        "fecha": "2025-04-21"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 5,
+        "precioUnitario": 0.6,
+        "vendedor": "Juan",
+        "fecha": "2025-04-21"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 44,
+        "precioUnitario": 0.8,
+        "vendedor": "Maria",
+        "fecha": "2025-04-21"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 36,
+        "precioUnitario": 0.8,
+        "vendedor": "Juan",
+        "fecha": "2025-04-21"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 13,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-04-22"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 32,
+        "precioUnitario": 0.7,
+        "vendedor": "Luis",
+        "fecha": "2025-04-22"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 46,
+        "precioUnitario": 4.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-23"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 17,
+        "precioUnitario": 2.5,
+        "vendedor": "Maria",
+        "fecha": "2025-04-23"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 10,
+        "precioUnitario": 0.9,
+        "vendedor": "Maria",
+        "fecha": "2025-04-23"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 28,
+        "precioUnitario": 0.9,
+        "vendedor": "Ana",
+        "fecha": "2025-04-23"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 21,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-04-24"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 55,
+        "precioUnitario": 2.5,
+        "vendedor": "Maria",
+        "fecha": "2025-04-25"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 13,
+        "precioUnitario": 0.9,
+        "vendedor": "Luis",
+        "fecha": "2025-04-25"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 23,
+        "precioUnitario": 1.5,
+        "vendedor": "Juan",
+        "fecha": "2025-04-25"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 59,
+        "precioUnitario": 5.0,
+        "vendedor": "Ana",
+        "fecha": "2025-04-26"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 36,
+        "precioUnitario": 0.9,
+        "vendedor": "Luis",
+        "fecha": "2025-04-26"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 41,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-26"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 23,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-04-26"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 16,
+        "precioUnitario": 0.9,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-27"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 6,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-04-27"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 52,
+        "precioUnitario": 1.2,
+        "vendedor": "Ana",
+        "fecha": "2025-04-27"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 42,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-04-28"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 60,
+        "precioUnitario": 6.0,
+        "vendedor": "Juan",
+        "fecha": "2025-04-28"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 46,
+        "precioUnitario": 5.0,
+        "vendedor": "Luis",
+        "fecha": "2025-04-29"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 53,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-04-29"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 53,
+        "precioUnitario": 0.9,
+        "vendedor": "Maria",
+        "fecha": "2025-04-30"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 40,
+        "precioUnitario": 1.2,
+        "vendedor": "Juan",
+        "fecha": "2025-04-30"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 51,
+        "precioUnitario": 0.4,
+        "vendedor": "Luis",
+        "fecha": "2025-04-30"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 39,
+        "precioUnitario": 0.6,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-01"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 40,
+        "precioUnitario": 4.5,
+        "vendedor": "Maria",
+        "fecha": "2025-05-01"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 29,
+        "precioUnitario": 6.0,
+        "vendedor": "Ana",
+        "fecha": "2025-05-01"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 30,
+        "precioUnitario": 0.5,
+        "vendedor": "Maria",
+        "fecha": "2025-05-01"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 48,
+        "precioUnitario": 0.7,
+        "vendedor": "Luis",
+        "fecha": "2025-05-02"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 58,
+        "precioUnitario": 3.0,
+        "vendedor": "Maria",
+        "fecha": "2025-05-02"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 5,
+        "precioUnitario": 4.5,
+        "vendedor": "Luis",
+        "fecha": "2025-05-03"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 10,
+        "precioUnitario": 1.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-03"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 32,
+        "precioUnitario": 0.9,
+        "vendedor": "Ana",
+        "fecha": "2025-05-04"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 46,
+        "precioUnitario": 0.9,
+        "vendedor": "Juan",
+        "fecha": "2025-05-04"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 15,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-05"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 34,
+        "precioUnitario": 0.9,
+        "vendedor": "Juan",
+        "fecha": "2025-05-05"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 59,
+        "precioUnitario": 1.0,
+        "vendedor": "Luis",
+        "fecha": "2025-05-05"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 12,
+        "precioUnitario": 1.0,
+        "vendedor": "Ana",
+        "fecha": "2025-05-05"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 37,
+        "precioUnitario": 0.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-06"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 55,
+        "precioUnitario": 0.4,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-06"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 20,
+        "precioUnitario": 0.4,
+        "vendedor": "Juan",
+        "fecha": "2025-05-06"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 16,
+        "precioUnitario": 1.0,
+        "vendedor": "Luis",
+        "fecha": "2025-05-07"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 37,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-07"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 32,
+        "precioUnitario": 1.0,
+        "vendedor": "Maria",
+        "fecha": "2025-05-08"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 53,
+        "precioUnitario": 6.0,
+        "vendedor": "Luis",
+        "fecha": "2025-05-08"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 57,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-05-09"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 30,
+        "precioUnitario": 3.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-09"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 43,
+        "precioUnitario": 2.5,
+        "vendedor": "Juan",
+        "fecha": "2025-05-09"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 56,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-05-10"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 35,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-11"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 16,
+        "precioUnitario": 2.5,
+        "vendedor": "Juan",
+        "fecha": "2025-05-11"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 45,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-05-11"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 7,
+        "precioUnitario": 6.0,
+        "vendedor": "Luis",
+        "fecha": "2025-05-11"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 46,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-05-12"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 35,
+        "precioUnitario": 0.9,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-12"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 17,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-05-12"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 36,
+        "precioUnitario": 3.0,
+        "vendedor": "Juan",
+        "fecha": "2025-05-13"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 23,
+        "precioUnitario": 6.0,
+        "vendedor": "Ana",
+        "fecha": "2025-05-13"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 32,
+        "precioUnitario": 6.0,
+        "vendedor": "Ana",
+        "fecha": "2025-05-13"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 22,
+        "precioUnitario": 1.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-14"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 56,
+        "precioUnitario": 0.4,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-14"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 14,
+        "precioUnitario": 0.2,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-14"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 9,
+        "precioUnitario": 0.8,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-14"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 9,
+        "precioUnitario": 0.4,
+        "vendedor": "Juan",
+        "fecha": "2025-05-14"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 56,
+        "precioUnitario": 3.0,
+        "vendedor": "Ana",
+        "fecha": "2025-05-15"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 40,
+        "precioUnitario": 0.9,
+        "vendedor": "Ana",
+        "fecha": "2025-05-15"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 57,
+        "precioUnitario": 0.8,
+        "vendedor": "Maria",
+        "fecha": "2025-05-16"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 55,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-05-17"
+    },
+    {
+        "producto": "Pan",
+        "cantidadVendida": 27,
+        "precioUnitario": 0.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-17"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 26,
+        "precioUnitario": 4.5,
+        "vendedor": "Maria",
+        "fecha": "2025-05-17"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 18,
+        "precioUnitario": 3.0,
+        "vendedor": "Maria",
+        "fecha": "2025-05-18"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 51,
+        "precioUnitario": 1.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-18"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 29,
+        "precioUnitario": 0.4,
+        "vendedor": "Ana",
+        "fecha": "2025-05-18"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 40,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-18"
+    },
+    {
+        "producto": "Zanahorias",
+        "cantidadVendida": 6,
+        "precioUnitario": 0.6,
+        "vendedor": "Luis",
+        "fecha": "2025-05-18"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 52,
+        "precioUnitario": 2.5,
+        "vendedor": "Ana",
+        "fecha": "2025-05-19"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 48,
+        "precioUnitario": 5.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-19"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 7,
+        "precioUnitario": 0.2,
+        "vendedor": "Juan",
+        "fecha": "2025-05-19"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 58,
+        "precioUnitario": 0.7,
+        "vendedor": "Ana",
+        "fecha": "2025-05-19"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 34,
+        "precioUnitario": 3.0,
+        "vendedor": "Luis",
+        "fecha": "2025-05-19"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 13,
+        "precioUnitario": 0.8,
+        "vendedor": "Maria",
+        "fecha": "2025-05-20"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 17,
+        "precioUnitario": 5.0,
+        "vendedor": "Maria",
+        "fecha": "2025-05-20"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 53,
+        "precioUnitario": 5.0,
+        "vendedor": "Luis",
+        "fecha": "2025-05-20"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 54,
+        "precioUnitario": 5.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-20"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 46,
+        "precioUnitario": 0.7,
+        "vendedor": "Luis",
+        "fecha": "2025-05-20"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 51,
+        "precioUnitario": 1.5,
+        "vendedor": "Luis",
+        "fecha": "2025-05-21"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 12,
+        "precioUnitario": 0.7,
+        "vendedor": "Juan",
+        "fecha": "2025-05-21"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 51,
+        "precioUnitario": 1.5,
+        "vendedor": "Juan",
+        "fecha": "2025-05-21"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 55,
+        "precioUnitario": 0.9,
+        "vendedor": "Ana",
+        "fecha": "2025-05-21"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 17,
+        "precioUnitario": 0.4,
+        "vendedor": "Luis",
+        "fecha": "2025-05-22"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 31,
+        "precioUnitario": 1.5,
+        "vendedor": "Juan",
+        "fecha": "2025-05-22"
+    },
+    {
+        "producto": "Queso",
+        "cantidadVendida": 44,
+        "precioUnitario": 2.5,
+        "vendedor": "Luis",
+        "fecha": "2025-05-22"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 57,
+        "precioUnitario": 1.5,
+        "vendedor": "Maria",
+        "fecha": "2025-05-22"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 9,
+        "precioUnitario": 0.4,
+        "vendedor": "Luis",
+        "fecha": "2025-05-23"
+    },
+    {
+        "producto": "Cereal",
+        "cantidadVendida": 36,
+        "precioUnitario": 3.0,
+        "vendedor": "Luis",
+        "fecha": "2025-05-24"
+    },
+    {
+        "producto": "Manzanas",
+        "cantidadVendida": 9,
+        "precioUnitario": 0.7,
+        "vendedor": "Maria",
+        "fecha": "2025-05-24"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 37,
+        "precioUnitario": 4.5,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-25"
+    },
+    {
+        "producto": "Leche",
+        "cantidadVendida": 59,
+        "precioUnitario": 1.0,
+        "vendedor": "Ana",
+        "fecha": "2025-05-26"
+    },
+    {
+        "producto": "Tomates",
+        "cantidadVendida": 26,
+        "precioUnitario": 0.8,
+        "vendedor": "Juan",
+        "fecha": "2025-05-27"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 5,
+        "precioUnitario": 0.4,
+        "vendedor": "Maria",
+        "fecha": "2025-05-27"
+    },
+    {
+        "producto": "Miel",
+        "cantidadVendida": 9,
+        "precioUnitario": 4.5,
+        "vendedor": "Maria",
+        "fecha": "2025-05-27"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 17,
+        "precioUnitario": 5.0,
+        "vendedor": "Ana",
+        "fecha": "2025-05-27"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 48,
+        "precioUnitario": 1.2,
+        "vendedor": "Maria",
+        "fecha": "2025-05-27"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 16,
+        "precioUnitario": 0.2,
+        "vendedor": "Maria",
+        "fecha": "2025-05-28"
+    },
+    {
+        "producto": "Carne",
+        "cantidadVendida": 15,
+        "precioUnitario": 6.0,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-28"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 53,
+        "precioUnitario": 0.2,
+        "vendedor": "Luis",
+        "fecha": "2025-05-28"
+    },
+    {
+        "producto": "Pollo",
+        "cantidadVendida": 44,
+        "precioUnitario": 5.0,
+        "vendedor": "Juan",
+        "fecha": "2025-05-28"
+    },
+    {
+        "producto": "Yogur",
+        "cantidadVendida": 18,
+        "precioUnitario": 1.5,
+        "vendedor": "Juan",
+        "fecha": "2025-05-29"
+    },
+    {
+        "producto": "Arroz",
+        "cantidadVendida": 24,
+        "precioUnitario": 1.2,
+        "vendedor": "Luis",
+        "fecha": "2025-05-29"
+    },
+    {
+        "producto": "Papas",
+        "cantidadVendida": 54,
+        "precioUnitario": 0.4,
+        "vendedor": "Carlos",
+        "fecha": "2025-05-29"
+    },
+    {
+        "producto": "Huevos",
+        "cantidadVendida": 49,
+        "precioUnitario": 0.2,
+        "vendedor": "Ana",
+        "fecha": "2025-05-29"
+    },
+    {
+        "producto": "Harina",
+        "cantidadVendida": 57,
+        "precioUnitario": 0.9,
+        "vendedor": "Maria",
+        "fecha": "2025-05-30"
     }
-  ]
-  
+]

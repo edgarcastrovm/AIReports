@@ -51,7 +51,7 @@ micButton.addEventListener('click', async () => {
             if (mediaRecorder && mediaRecorder.state === 'recording') {
                 stopRecording();
             }
-        }, 4000);
+        }, 8000);
 
     } catch (error) {
         showError("Error al acceder al micrófono: " + error.message);
